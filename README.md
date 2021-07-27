@@ -1,2 +1,2 @@
 # Protected routes 
-# <Redirect> component
+# Redirect component
